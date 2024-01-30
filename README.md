@@ -2,19 +2,19 @@
 This is the detailed description for Group 1's 6-page website.
 
 Page 1:
-  Description
+  homepage
 
 Page 2:
-  Description
+  animal 1
 
 Page 3:
-  Description
+  animal 2
 
 Page 4:
-  Description
+  animal 3
 
 Page 5:
-  Description
+  animal 4
 
 Page 6:
-  Description
+  animal 5
