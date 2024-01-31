@@ -5,7 +5,7 @@ Page 1:
   homepage
 
 Page 2:
-  animal 1
+  Giraffe
 
 Page 3:
   animal 2
