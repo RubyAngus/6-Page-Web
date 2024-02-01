@@ -1,1 +1,11 @@
-Enter 200 word group statement on our use of GitHub to collaborate
+The development of the project and the use of github went really well for our group. Firstly, Ruby kindly
+made the repository and shared it with the rest of the group. We then made a develop branch from main to
+allow us to create our own branches from dev to add features to the project. We later decided to host a
+meeting to go over some of the functionality of github and how to create branches, commit, push etc. We all
+managed to successfully create our own branches and make our changes. We decided to do our first pull
+request from our feature branch to develop on the meeting we had so that everyone could see how it was done
+and ask any questions if they had any and it all went well. We assigned ourselves to the PRs and assigned the
+rest of our group as reviewers. We commented useful tips on each others prs for any changes that we thought
+they should make and then approved the PR when we thought it was ready to be merged to dev. The owner of the
+PR then went and merged the branch to dev successfully, allowing the rest of the group to pull the changes
+into their local code.
